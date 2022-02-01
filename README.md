@@ -1,6 +1,6 @@
 ### Olá!!, sou o Diego Ramos!
-- 🔭 Em busca de uma oportunidade de estágio em desenvolvimento front end.
-- 🌱 Estudando grid,flexbox,bootstrap.
+- 🔭 Em busca de aprender a parte de desenvolvimento back-end.
+- 🌱 Estudando JavaScript,python,sql,node.js.
 - ❤️ Apaixonado por tecnologia.
 - 🎓 Cursando sistemas de informação.
  <img src="https://komarev.com/ghpvc/?username=diegoramosfortunato&color=green" alt="diegoramosfortunato" /> 
@@ -11,12 +11,13 @@
 </div>
    
   <div style="display: inline_block"><br>
-  <img align="center" alt="dg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="dg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="dg-Js" height="30" width="40" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="dg-py" height="30" width="40" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  <img align="center" alt="dg-py" height="30" width="40" src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-           wordmark.svg"/>
+   
+   
+ 
+ 
 </div>
   
   
@@ -31,3 +32,5 @@
   
 
   
+
+ 
